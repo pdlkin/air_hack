@@ -1,0 +1,46 @@
+body {
+    background-image: url(../img/bg_house.png); 
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 1145px;
+    margin: 0 auto;
+}
+
+.title {
+    color: #fff;
+    font-size: 100px;
+    margin-right: 100;
+}
+
+nav {
+    margin-top: 25px;
+    float: center;
+}
+
+.menu {
+    padding: 0;
+    display: block;
+    float: left;
+    margin-bottom: 85px;
+}
+
+.menu a {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.text {
+    float: left;
+    color: #fff;
+    width: 1145px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.audio {
+    float: right;
+}
